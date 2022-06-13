@@ -15,5 +15,6 @@ public class Circle {
 		System.out.println("Area = "+Integer.parseInt(radius)*Integer.parseInt(radius)*pi);
 		System.out.println("Circumfrerence ="+ Integer.parseInt(radius)*2*pi);
 		System.out.print("hello world");
+		System.out.print("hello world2");
 	}
 }
